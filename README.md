@@ -9,6 +9,47 @@ y las actividades que se califican.
 |---|---|---|
 | Primer parcial | — | Jueves 8 de octubre de 2026 |
 | Actividad 1: Variables, tipos de datos, funciones y ciclos | [instrucciones_actividad_1.md](actividades/instrucciones_actividad_1.md) | Martes 13 de octubre de 2026 |
+| Actividad 2: Recursividad | [instrucciones_actividad_2.md](actividades/instrucciones_actividad_2.md) | Jueves 15 de octubre de 2026 |
+
+## Cómo entregar una actividad
+
+Envía tu actividad por correo a **marco.monroy.engineer@gmail.com**.
+
+Los correos se revisan con un programa automático, así que es muy importante que
+sigas **exactamente** este formato. Si no lo sigues, tu actividad podría no registrarse.
+
+### Reglas
+
+1. Manda **un correo por actividad**.
+2. Adjunta **solo** tu archivo `.py`, con el nombre exacto que pide la actividad
+   (por ejemplo, `actividad_2.py`). No lo mandes en `.zip`, ni como enlace de Drive,
+   ni pegado en el cuerpo del correo.
+3. Copia el asunto y el cuerpo de la plantilla y **cambia solo los datos de ejemplo** por los tuyos.
+   No cambies las palabras antes de los dos puntos (`:`).
+4. Si necesitas corregir algo, manda un correo nuevo con el mismo formato.
+   Se califica el **último** correo que llegue antes de la fecha de entrega.
+
+### Plantilla
+
+**Asunto:**
+
+```
+[DISENIO-ALGORITMOS] actividad_2 - 312345678
+```
+
+**Cuerpo:**
+
+```
+Nombre: Ana López García
+Grupo: 1101
+Numero de cuenta: 312345678
+Actividad: actividad_2
+```
+
+**Archivo adjunto:** `actividad_2.py`
+
+En el asunto, cambia `actividad_2` por la actividad que entregas y `312345678` por tu
+número de cuenta (solo números, sin espacios ni guiones).
 
 ## Estructura del repositorio
 
