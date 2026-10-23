@@ -407,4 +407,3 @@ lista_equipo = [
     {"nombre": "Caro", "goles": 5},
 ]
 print(goleadores(lista_equipo))  # ['Ana', 'Caro']
-
