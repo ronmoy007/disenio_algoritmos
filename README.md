@@ -3,6 +3,18 @@
 Material del curso de Diseño de algoritmos: presentaciones y código de cada clase,
 y las actividades que se califican.
 
+## Plataforma del laboratorio
+
+Practica y entrega los ejercicios en la plataforma del curso:
+**[shower-flint-jokingly.ngrok-free.dev](https://shower-flint-jokingly.ngrok-free.dev)**
+
+> Si aparece una pantalla de aviso de ngrok, da clic en **Visit Site** para continuar.
+
+## Contacto
+
+- Correo: **marco.monroy.engineer@gmail.com**
+- LinkedIn: [Marco Julio Monroy Ayala](https://www.linkedin.com/in/marco-julio-monroy-ayala/)
+
 ## Actividades y fechas de entrega
 
 | Actividad | Instrucciones | Fecha de entrega |
